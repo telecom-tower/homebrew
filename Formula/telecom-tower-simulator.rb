@@ -1,9 +1,9 @@
 class TelecomTowerSimulator < Formula
   desc ""
   homepage "https://github.com/telecom-tower"
-  url "https://github.com/telecom-tower/simulator/releases/download/v1.0.6/telecom-tower-simulator_1.0.6_macOS_64-bit.tar.gz"
-  version "1.0.6"
-  sha256 "c59d6eb4825464de1e6293ad1079075b67531b1c313361f631da0259c16922c3"
+  url "https://github.com/telecom-tower/simulator/releases/download/v1.0.7/telecom-tower-simulator_1.0.7_macOS_64-bit.tar.gz"
+  version "1.0.7"
+  sha256 "c6f41c1de8c17cc0a25eaea010948d8f8f7d323d566c7c4c2f966e02c0bed947"
 
   def install
     bin.install "telecom-tower-simulator"
